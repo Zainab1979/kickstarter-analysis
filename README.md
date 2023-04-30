@@ -26,9 +26,8 @@ e.	A 2D line chart with markers was then created to visualize our outcomes versu
 a.	The main challenge in this project would have been getting the 10-digit serial number in our raw data converted into a usable data for Excel.
 
         ## Results
-	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/336afde9d85ffbcce46b160555a1fbde57db806c/Outcomes%20Based%20on%20Goal.png)  
 	
-	
+	![Theater outcame based on launchdate]([https://github.com/Zainab1979/kickstarter-analysis/blob/336afde9d85ffbcce46b160555a1fbde57db806c/Outcomes%20Based%20on%20Goal.png)](
 1.	Theatre outcomes by launch date
 a.	The month that yielded the greatest number of successful campaigns was May. We had 111 successful campaigns that month. 
 b.	The month that yielded the highest number of failed campaigns was also May. There were 52 failed campaigns that month. 
