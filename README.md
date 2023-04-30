@@ -10,6 +10,7 @@ The main purpose of this project was to use our skills in Excel to analyze campa
 
 2.	Pivot Table Creation
 3.	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png) 
+4.	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png) 
 a.	Pulled Month Name into rows, Outcomes into columns, Outcomes into values and Category and Year were pulled into filters.
 b.	We then applied the proper filters and generated a 2D line graph with markers to visualize the data.
 
