@@ -9,11 +9,11 @@ The main purpose of this project was to use our skills in Excel to analyze campa
 1.	Raw Data Cleanse and Manipulation
 
 2.	Pivot Table Creation
-3.	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png) 
-4.	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png) 
+
+	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png) 
 a.	Pulled Month Name into rows, Outcomes into columns, Outcomes into values and Category and Year were pulled into filters.
 b.	We then applied the proper filters and generated a 2D line graph with markers to visualize the data.
-
+    ![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/528ea5a1c87936176095b1fd6c14537ea7c1f190/theater.png) 
 3.	Data Aggregation and Visualization
 a.	The 3rd step in the process was to create a new sheet and add the 8 required columns to hold our goal and aggregated data.
 b.	Countifs was used to get the count of successful, failed and canceled campaigns based on the goal amount. 
