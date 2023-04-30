@@ -28,7 +28,8 @@ The main challenge in this project would have been getting the 10-digit serial n
 
  ## Results
  
-![Theater outcame]([https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png)
+ ![Theater outcame]([https://github.com/Zainab1979/kickstarter-analysis/blob/58cf0df9556704befbfadd95e06d385202182a14/outcames.png] 
+ 
 1.Theatre outcomes by launch date 
 a.The month that yielded the greatest number of successful campaigns was May. We had 111 successful campaigns that month. 
 b.The month that yielded the highest number of failed campaigns was also May. There were 52 failed campaigns that month. 
