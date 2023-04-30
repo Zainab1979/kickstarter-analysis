@@ -8,10 +8,10 @@ The main purpose of this project was to use our skills in Excel to analyze campa
 =YEAR(O2),=MONTH(O2) and =TEXT(S2*29;"mmm")
 1.	Raw Data Cleanse and Manipulation
 
- 
 2.	Pivot Table Creation
-b.	Pulled Month Name into rows, Outcomes into columns, Outcomes into values and Category and Year were pulled into filters.
-c.	We then applied the proper filters and generated a 2D line graph with markers to visualize the data.
+3.	![Outcame based on Goal](https://github.com/Zainab1979/kickstarter-analysis/blob/336afde9d85ffbcce46b160555a1fbde57db806c/Outcomes%20Based%20on%20Goal.png) 
+a.	Pulled Month Name into rows, Outcomes into columns, Outcomes into values and Category and Year were pulled into filters.
+b.	We then applied the proper filters and generated a 2D line graph with markers to visualize the data.
 
 3.	Data Aggregation and Visualization
 a.	The 3rd step in the process was to create a new sheet and add the 8 required columns to hold our goal and aggregated data.
